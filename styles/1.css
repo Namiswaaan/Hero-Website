@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    background-color: yellow;
+    padding: 20px;
+    margin: 100px;
+    border: 2px solid black;
+}
